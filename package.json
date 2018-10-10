@@ -1,0 +1,16 @@
+{
+  "name": "eslint-config-sealcode",
+  "version": "1.0.0",
+  "description": "In order to use this config in your project, add lines below to your `.eslintrc` file:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@hub.sealcode.org:62022/diffusion/ESL/eslint-config-sealcode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
